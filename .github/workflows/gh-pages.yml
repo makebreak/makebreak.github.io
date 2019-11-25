@@ -22,8 +22,8 @@ jobs:
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./public
         SCRIPT_MODE: true
-      run:
-      - curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz -o hugo.tar.gz
-      - tar xzvvf hugo.tar.gz -C ./    
-      - ./hugo 
-      - find public/ -type f -exec sed -i 's/_blank">/_blank" rel="noopener">/g' {} +
+      run: |
+      curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz -o hugo.tar.gz
+      tar xzvvf hugo.tar.gz -C ./    
+      ./hugo 
+      find public/ -type f -exec sed -i 's/_blank">/_blank" rel="noopener">/g' {} +
