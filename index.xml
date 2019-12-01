@@ -6,8 +6,8 @@
     <description>Recent content on Andy&#39;s Academic and Dev Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
+    <copyright>© Copyright Notice</copyright>
+    <lastBuildDate>Sat, 30 Nov 2019 21:37:58 +0530</lastBuildDate>
     
 	<atom:link href="https://makebreak.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,25 @@
     <item>
       <title>About</title>
       <link>https://makebreak.github.io/about/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
+      <pubDate>Sat, 30 Nov 2019 21:37:58 +0530</pubDate>
       
       <guid>https://makebreak.github.io/about/</guid>
-      <description>Andy is a student.</description>
+      <description>Andy is a graduate student. She likes writing science fiction, making/breaking digital things, bike riding and coffee. Her research interest include privacy and security in the context of intimate partner violence and designing technology for vulnerable populations.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://makebreak.github.io/home/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://makebreak.github.io/home/</guid>
+      <description>Welcome to my website. You must be here to learn about my candidacy for your PhD program. Or perhaps you stumbled here from another digital journey.
+Some Links of Interest:
+IPV Research Project
+https://www.ipvtechresearch.org/
+Translation Code
+https://github.com/makebreak/translateStuff/blob/master/translateSelection.py
+Camera Code https://github.com/makebreak/picameracode</description>
     </item>
     
     <item>
