@@ -22,21 +22,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://makebreak.github.io/home/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://makebreak.github.io/home/</guid>
-      <description>Welcome to my website!
-Some Links of Interest:
-IPV Research Project
-https://www.ipvtechresearch.org This is my current research group.
-Translation Code
-https://github.com/makebreak/translateStuff/blob/master/translateSelection.py This is a little program I wrote for translating databases using Google&amp;rsquo;s Translation API.
-Camera Code https://github.com/makebreak/picameracode This is a program to sync a piCamera, Raspberry Pi, and a Particle Photon and store a recorded video on Google Drive.</description>
-    </item>
-    
-    <item>
       <title>How to test dark mode?</title>
       <link>https://makebreak.github.io/posts/post-7/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
@@ -109,6 +94,21 @@ We run from silence. We run from the spaces between tasks and appointments. We r
       <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 It all keeps piling up, and it can feel overwhelming.
 How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://makebreak.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://makebreak.github.io/home/</guid>
+      <description>Welcome to my website!
+Some Links of Interest:
+IPV Research Project
+https://www.ipvtechresearch.org This is my current research group.
+Translation Code
+https://github.com/makebreak/translateStuff/blob/master/translateSelection.py This is a little program I wrote for translating databases using Google&amp;rsquo;s Translation API.
+Camera Code https://github.com/makebreak/picameracode This is a program to sync a piCamera, Raspberry Pi, and a Particle Photon and store a recorded video on Google Drive.</description>
     </item>
     
   </channel>
